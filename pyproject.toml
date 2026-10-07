@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "lulu-ai"
 version = "1.0.7"
 description = "AI-powered screen assistant — solves MCQs, generates and auto-types code/theory answers using global hotkeys."
-readme = "readme.md"
+readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
 requires-python = ">=3.9"
