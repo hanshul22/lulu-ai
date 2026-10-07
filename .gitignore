@@ -1,0 +1,30 @@
+# Secrets / local config (contain API keys)
+.env
+settings.json
+settings.backup.json
+test_settings.json
+
+# Runtime data
+hidden_notes.txt
+screenshots/
+*.log
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Dev notes
+codereview.md
+
+# OS / IDE
+desktop.ini
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

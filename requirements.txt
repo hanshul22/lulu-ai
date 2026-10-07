@@ -1,0 +1,7 @@
+pynput
+google-generativeai
+Pillow
+pyautogui
+requests
+python-dotenv
+customtkinter
